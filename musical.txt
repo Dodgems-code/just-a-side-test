@@ -1,0 +1,4 @@
+just checking how this git stuff works
+I like cats of brown and white color
+wait what does git remote -v do again?
+ohh
